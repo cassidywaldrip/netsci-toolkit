@@ -7,15 +7,8 @@
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [License](#license)
 - [Functions](#functions)
-
-## Installation
-
-```console
-pip install netsci-toolkit
-```
 
 ## License
 
